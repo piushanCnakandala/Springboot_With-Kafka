@@ -50,4 +50,14 @@
 
     </dependencies>
 
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.example</groupId>
+                <artifactId>SpringbootWithKafkaTesting</artifactId>
+                <version>1.0.0</version>
+            </plugin>
+        </plugins>
+    </build>
+
 </project>
